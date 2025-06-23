@@ -1,0 +1,20 @@
+name: whispert5
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=12.1
+  - pytorch==2.5.1
+  - torchaudio==2.5.1
+  - torchvision==0.20.1
+  - ipykernel
+  - jupyter
+  - ptyprocess
+  - pyzmq
+  - regex
+  - matplotlib
+  - seaborn
+prefix: /home/aikusrv02/anaconda3/envs/whispert5
