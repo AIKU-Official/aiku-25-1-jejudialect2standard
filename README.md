@@ -11,12 +11,11 @@
 본 프로젝트는 제주 방언 음성을 표준 한국어 텍스트로 변환하기 위해 Sedláček 등의 연구에서 제안된 Encoder-Connector-Decoder 구조를 채택했습니다. 
 
 ## 환경 설정
-
-(Requirements, Anaconda, Docker 등 프로젝트를 사용하는데에 필요한 요구 사항을 나열해주세요)
+  conda env create -f environment.yml
 
 ## 사용 방법
 
-(프로젝트 실행 방법 (명령어 등)을 적어주세요.)
+
 
 ## 예시 결과
 
