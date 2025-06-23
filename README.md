@@ -15,8 +15,8 @@
 
 ## 사용 방법
 
-데이터 전처리 후 `whisper_t5_ddp_connector.py`실행 
-데이터 : [제주어 AIhub 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=121)
+데이터 전처리 후 `whisper_t5_ddp_connector.py`실행 \
+데이터 : [제주어 AIhub 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=121) \
 전처리 : [선행 연구](https://github.com/maeseok/Jeju_Translation.github.io) 에서 나온 전처리 방법을 그대로 따라하여 csv 파일을 만들었음. 
 
 ## 예시 결과
