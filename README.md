@@ -67,5 +67,5 @@ UMAP 시각화: Whisper, 커넥터, T5의 임베딩 공간을 2차원으로 시�
 (프로젝트에 참여한 팀원의 이름과 깃헙 프로필 링크, 역할을 작성해주세요)
 
 - [권도영](https://github.com/douyoung89): 프로젝트 총괄, 학습 코드 구현 및 논문 작성
-- [이창엽](github.com/PROLCY): Q-Former 및 STE 커넥터 모듈 구현 및 실험
-- [홍예진](github.com/jinhong):  Baseline 모델 및 UMAP 시각화 구현 및 실험 
+- [이창엽](https://github.com/PROLCY): Q-Former 및 STE 커넥터 모듈 구현 및 실험
+- [홍예진](https://github.com/jinhong):  Baseline 모델 및 UMAP 시각화 구현 및 실험 
